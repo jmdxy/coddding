@@ -1,1 +1,0 @@
-App annie codility test
